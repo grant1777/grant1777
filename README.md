@@ -5,13 +5,13 @@ I build practical, user-focused apps, mostly full-stack web products and tooling
 **Tech I use:** React, FastAPI, .NET, PostgreSQL/Supabase, Python
 
 ## Featured Projects
-- **Music Database App** — full-stack music library + discovery app  
+- **Music Database App**: full-stack music library + discovery app  
   - Stack: React + FastAPI + PostgreSQL/Supabase
-- **Pokémon Shiny Tracker** — track hunts, odds, sessions, and stats  
+- **Pokémon Shiny Tracker**: track hunts, odds, sessions, and stats  
   - Stack: React + FastAPI + SQLite + .NET
-- **Spotify Miniplayer Tool** — lightweight Spotify mini-player using the Spotify Web API  
+- **Spotify Miniplayer Tool**: lightweight Spotify mini-player using the Spotify Web API  
   - Stack: React + Spotify Web API 
-- **Minecraft Texture Tool** — generate/validate/convert textures for packs quickly  
+- **Minecraft Texture Tool**: generate/validate/convert textures for packs quickly  
   - Stack: HTML/CSS
 
 ## What I’m working on
