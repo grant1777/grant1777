@@ -1,16 +1,19 @@
-## Hi there 👋
+# Grant
 
-<!--
-**grant1777/grant1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical, user-focused apps, mostly full-stack web products and tooling.
 
-Here are some ideas to get you started:
+**Tech I use:** React, FastAPI, .NET, PostgreSQL/Supabase, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Music Database App** — full-stack music library + discovery app  
+  - Stack: React + FastAPI + PostgreSQL/Supabase
+- **Pokémon Shiny Tracker** — track hunts, odds, sessions, and stats  
+  - Stack: React + FastAPI + SQLite + .NET
+- **Spotify Miniplayer Tool** — generate/validate/convert textures for packs quickly  
+  - Stack: React + Spotify Web API 
+- **Minecraft Texture Tool** — generate/validate/convert textures for packs quickly  
+  - Stack: HTML/CSS
+
+## What I’m working on
+- Improving UX + performance, adding tests, and tightening deployment pipelines.
+- Publishing my projects and tools online to assist others.
