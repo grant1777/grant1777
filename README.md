@@ -1,6 +1,6 @@
 # Grant
 
-I build practical, user-focused apps, mostly full-stack web products and tooling.
+I make user-focused apps and tools.
 
 **Tech I use:** React, FastAPI, .NET, PostgreSQL/Supabase, Python
 
@@ -11,7 +11,7 @@ I build practical, user-focused apps, mostly full-stack web products and tooling
   - Stack: React + FastAPI + SQLite + .NET
 - **Spotify Miniplayer Tool**: lightweight Spotify mini-player using the Spotify Web API  
   - Stack: React + Spotify Web API 
-- **Minecraft Texture Tool**: generate/validate/convert textures for packs quickly  
+- **Minecraft Texture Tool**: generate/validate/convert textures for texture palettes  
   - Stack: HTML/CSS
 
 ## What I’m working on
